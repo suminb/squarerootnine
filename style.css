@@ -1,0 +1,13 @@
+body {
+    font-family: Georgia, serif;
+    font-size: 11pt;
+}
+
+h1, h2, h3 {
+    /*font-family: Hevetica, Arial, sans-serif;*/
+    font-weight: normal;
+}
+
+ul {
+    list-style: none;
+}
